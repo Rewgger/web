@@ -31,74 +31,74 @@ description:  Puni spisak korisnih alata, biblioteka (libraries), modova, filter
 - **[weapon-config](https://github.com/oscar-broman/samp-weapon-config)** - Više dosljedan i odgovarajuć sustav štete (damage system) s mnoštvo novih svojstava.
 - **[samp-geoip](https://github.com/Southclaws/SAMP-geoip)** - Zemljopisna informacija na temelju IP adrese.
 - **[progress2](https://github.com/Southclaws/progress2)** - Prikažite vrijeme, zdravlje, gorivo i slično kao naprednu traku.
-- **[weapon-data](https://github.com/Southclaws/samp-weapon-data)** - Finely tuned, customisable weapon data.
-- **[MV_Youtube](https://github.com/MichaelBelgium/MV_Youtube)** - Youtube Converter API for Audio Stream.
-- **[MySQL Prepared Statements](https://github.com/PatrickGTR/MySQL-Prepared-Statements)** - Emulating Prepared Statement for PAWN MySQL plugin.
-- **[samp-server-weapons](https://github.com/Brunoo16/samp-server-weapons)** - Weapons totally controlled by the server.
-- **[actor_robbery](https://github.com/PatrickGTR/actor_robbery)** - Inspired by GTA V store robbery. actor_robbery.inc imitates it!
-- **[samp-aviation](https://github.com/Southclaws/samp-aviation)** - A basic pitch-based altitude and roll-based heading autopilot for SA-MP.
-- **[samp-logger](https://github.com/Southclaws/samp-logger)** - Simple structured logger which provides a simple set of functions for logging and debugging.
-- **[TDW Recursion Scanner](https://github.com/tdworg/samp-include-rscan)** - A library that finds the recursions in code.
-- **[easyDialog](https://github.com/Awsomedude/easyDialog)** - Make dialogs easier to use in general.
-- **[mdialog](https://github.com/Open-GTO/mdialog)** - Modern Dialog System, simillar to easyDialog.
-- **[Model Sizes Plus](https://github.com/Crayder/Model-Sizes-Plus)** - Updated, advanced, more precise version of the old modelsizes include.
-- **[physics.inc](https://github.com/uPeppe/physics.inc)** - Simulate 2D and 3D physics (realistic movements, collisions, and more).
-- **[samp-async-dialogs](https://github.com/AGraber/samp-async-dialogs)** - Asynchronous dialog handling with PawnPlus tasks.
-- **[speedcap.inc](https://github.com/openmultiplayer/archive/blob/master/includes/speedcap.inc)** - A libraries to control speed of vehicles.
-- **[SA:MP Command Guess](https://github.com/Kirima2nd/samp-command-guess)** - A command guesser for SA:MP using Levenshtein Distance function.
-- **[vending](https://github.com/wuzi/vending)** - Server-side vending machines for SA-MP.
-- **[strlib](https://github.com/oscar-broman/strlib)** - A list of useful string functions.
-- **[mathutil](https://github.com/ScavengeSurvive/mathutil)** - A list of useful mathematical functions.
-- **[rotations.inc](https://github.com/sampctl/rotations.inc)** - A list of useful rotartion functions by Nero_3D's rotations.inc.
-- **[SA-MP Distance Functions](https://github.com/Y-Less/samp-distance)** - A list of useful distancing check functions.
-- **[New SA-MP callbacks](https://github.com/emmet-jones/New-SA-MP-callbacks)** - A list of useful new callback functions.
-- **[Alternative Dialogs](https://github.com/NexiusTailer/Alternative-Dialogs)** - Textdraw dialogs with a new design.
-- **[eSelection](https://github.com/TommyB123/eSelection)** - Adds the ability to create dynamic model selection menus in your SA-MP gamemodes.
-- **[mSelection](https://github.com/alextwothousand/mSelection)** - Same as eSelection, but different style.
+- **[weapon-data](https://github.com/Southclaws/samp-weapon-data)** - Fino ugođen, fleksibilni podaci oružja.
+- **[MV_Youtube](https://github.com/MichaelBelgium/MV_Youtube)** - YouTube pretvarač (API) za zvučni prijenos.
+- **[MySQL Prepared Statements](https://github.com/PatrickGTR/MySQL-Prepared-Statements)** - Oponašanje pripremljenih izjava za PAWN MySQL dodatak.
+- **[samp-server-weapons](https://github.com/Brunoo16/samp-server-weapons)** - Oružja potpuno kontrolirano poslužiteljom.
+- **[actor_robbery](https://github.com/PatrickGTR/actor_robbery)** - Nadahnut GTA V pljačkom dućana. actor_robbery.inc to oponaša!
+- **[samp-aviation](https://github.com/Southclaws/samp-aviation)** - Jednostavan autopilot za SA-MP temeljen na visini i smjeru nagiba.
+- **[samp-logger](https://github.com/Southclaws/samp-logger)** - Jednostavan strukturirani zapisnik koji pruža jednostavan skup funkcija za zapisivanje i otklanjanje pogrešaka.
+- **[TDW Recursion Scanner](https://github.com/tdworg/samp-include-rscan)** - Biblioteka za pronalaženje rekurziju u kodu.
+- **[easyDialog](https://github.com/Awsomedude/easyDialog)** - Olakšava korištenje dialoga.
+- **[mdialog](https://github.com/Open-GTO/mdialog)** - Moderni sustav dialoga, slično easyDialogu.
+- **[Model Sizes Plus](https://github.com/Crayder/Model-Sizes-Plus)** - Ažurirana, napredna, preciznija verzija starih modela uključuje veličine.
+- **[physics.inc](https://github.com/uPeppe/physics.inc)** - Simulirajte 2D i 3D fiziku (realistični pokreti, sudari i više).
+- **[samp-async-dialogs](https://github.com/AGraber/samp-async-dialogs)** - Rukovanje asinkronim dialogom s PawnPlus zadacima.
+- **[speedcap.inc](https://github.com/openmultiplayer/archive/blob/master/includes/speedcap.inc)** - Biblioteka za kontrolu brzine vozila.
+- **[SA:MP Command Guess](https://github.com/Kirima2nd/samp-command-guess)** - Pogađač naredbi za SA:MP pomoću Levenshtein funkcije udaljenosti.
+- **[vending](https://github.com/wuzi/vending)** - Automati na strani poslužitelja za SA-MP.
+- **[strlib](https://github.com/oscar-broman/strlib)** - Popis korisnih string funkcija.
+- **[mathutil](https://github.com/ScavengeSurvive/mathutil)** - Popis korisnih matematičkih funkcija.
+- **[rotations.inc](https://github.com/sampctl/rotations.inc)** - Popis korisnih funkcija rotacije, rotations.inc od Nero_3D.
+- **[SA-MP Distance Functions](https://github.com/Y-Less/samp-distance)** - Popis korisnih funkcija za provjere udaljenosti.
+- **[New SA-MP callbacks](https://github.com/emmet-jones/New-SA-MP-callbacks)** - Popis korisnih novih funkcija povratnog poziva.
+- **[Alternative Dialogs](https://github.com/NexiusTailer/Alternative-Dialogs)** - Textdraw dialozi s novim dizajnom.
+- **[eSelection](https://github.com/TommyB123/eSelection)** - Dodaje mogućnost stvaranja dinamičkih izbornika za odabir modela u Vašim SA-MP gamemodovima.
+- **[mSelection](https://github.com/alextwothousand/mSelection)** - Isto kao eSelection, ali drugačiji stil.
 
-## Command Processors
+## Naredbeni Procesori
 
-- **[I-ZCMD](https://github.com/YashasSamaga/I-ZCMD)** - Improved version of ZCMD.
-- **[Pawn.CMD](https://github.com/katursis/Pawn.CMD)** - Faster than any other command.
-- **[y_commands](https://github.com/pawn-lang/YSI-Includes/blob/5.x/YSI_Visual/y_commands.md)** - Command processor from YSI Includes
+- **[I-ZCMD](https://github.com/YashasSamaga/I-ZCMD)** - Poboljšana verzija ZCMD-a.
+- **[Pawn.CMD](https://github.com/katursis/Pawn.CMD)** - Brže od bilo koje druge naredbe.
+- **[y_commands](https://github.com/pawn-lang/YSI-Includes/blob/5.x/YSI_Visual/y_commands.md)** - Naredbe iz YSI biblioteke.
 
-## Plugins
+## Dodaci
 
-- **[JIT](https://github.com/Zeex/samp-plugin-jit)** - Once your code is stable, use this to speed it up significantly.
-- **[CrashDetect](https://github.com/Zeex/samp-plugin-crashdetect)** - Development tool to find bugs during testing.
-- **[Profiler](https://github.com/Zeex/samp-plugin-profiler)** - Performance profiler plugin for SA-MP server.
-- **[sscanf](https://github.com/Y-Less/sscanf)** - Convert strings to multiple values, ints, floats, players, etc.
-- **[MySQL Plugin](https://github.com/pBlueG/SA-MP-MySQL)** - Connect your server to a MySQL server.
-- **[Streamer Plugin](https://github.com/samp-incognito/samp-streamer-plugin)** - Bypass many SA:MP limits, like objects and pickups.
-- **[nativechecker](https://github.com/openmultiplayer/archive/raw/master/plugins/nativechecker.zip)** - Checking natives when server starts.
-- **[FCNPC](https://github.com/ziggi/FCNPC)** - A plugin for SA-MP servers which adds a lot of capabilities to the existing standard NPCs.
-- **[FileManager](https://github.com/JaTochNietDan/SA-MP-FileManager)** - Allows you to manage files and folders from root folder (not limited to the scriptfiles server directory with this plugin).
-- **[Pawn.Raknet](https://github.com/katursis/Pawn.RakNet)** - Allows you to analyze RakNet traffic.
-- **[samp-precise-timers](https://github.com/bmisiak/samp-precise-timers)** - A plugin for SA-MP providing precise timers, written in Rust.
-- **[PawnPlus](https://github.com/IllidanS4/PawnPlus)** - Extends the possibilities of the Pawn scripting language with new constructs, data types, and programming techniques.
-- **[PAWN memory access](https://github.com/BigETI/pawn-memory)** - Allows to allocate and free memory from heap in PAWN.
-- **[Native Fallback](https://github.com/IllidanS4/NativeFallback)** - SA-MP plugin that provides fallback implementation to unregistered natives.
-- **[YSF](https://github.com/IllidanS4/YSF)** - A Plugin whose purpose is to pull out maximum possibilities from the server, mainly with memory editing and hooking.
-- **[SKY](https://github.com/oscar-broman/SKY)** - This plugin provides low-level functions to let Pawn scripts do powerful things.
-- **[Pawn.Regex](https://github.com/katursis/Pawn.Regex)** - Adds support for regular expressions in Pawn.
-- **[pawn-scraper](https://github.com/Sreyas-Sreelal/pawn-scraper)** - A powerful scraper plugin that provides interface for utlising html_parsers and css selectors in pawn.
-- **[TOTP](https://github.com/philip1337/samp-plugin-totp)** - Allows you to use TOTP authentication in a sa-mp gamemode.
-- **[DNS Plugin](https://github.com/samp-incognito/samp-dns-plugin)** - This plugin provides functionality for DNS lookups and reverse DNS lookups.
-- **[MapAndreas](https://github.com/Southclaws/samp-plugin-mapandreas)** - Allows you to load different height maps and check the min height for x,y coordinates.
-- **[ColAndreas](https://github.com/Pottus/ColAndreas)** - Creates a simulation of the San Andreas world. Using the Bullet Physics library.
-- **[PathFinder](https://bitbucket.org/Pamdex/pathfinder/src/master)** - Allows you to calculate a route from point A to B on the San Andreas map.
-- **[Custom Query Flood Check](https://github.com/spmn/samp-custom-query-flood-check)** - Write custom protections against query flood.
-- **[sampml](https://github.com/YashasSamaga/sampml)** - Simplified machine learning toolkit and associated SAMP projects (Aimbot Detection).
-- **[TgConnector](https://github.com/Sreyas-Sreelal/tgconnector)** - A telegram connector plugin that helps to interact with telgram bots through SA-MP.
-- **[Discord connector](https://github.com/maddinat0r/samp-discord-connector)** - Allows you to control a Discord bot from within your PAWN script.
-- **[TSConnector](https://github.com/maddinat0r/samp-tsconnector)** - Allows you to control a Teamspeak3 Server from from within your PAWN script.
-- **[IRC Plugin](https://github.com/samp-incognito/samp-irc-plugin)** - Allows for the creation and management of IRC bots through the SA-MP server.
-- **[pawn-requests](https://github.com/Southclaws/pawn-requests)** - Provides an API for interacting with HTTP(S) APIs with support for text and JSON data types.
-- **[pawn-redis](https://github.com/Southclaws/pawn-redis)** - Granting access to a fast in-memory database and asynchronous message channels between other programs.
-- **[Chrono](https://github.com/Southclaws/pawn-chrono)** - A modern Pawn library for working with dates and times.
-- **[rustext](https://github.com/ziggi/rustext)** - Fix Russian text plugin for SA-MP: GameText's, TextDraw's and Menu's.
-- **[Advanced SA NickName](https://github.com/KrYpToDeN/Advanced-SA-NickName)** - Support for any symbols in nicknames.
-- **[SAMPSON](https://github.com/Hual/SAMPSON)** - A JSON plugin for SA-MP.
+- **[JIT](https://github.com/Zeex/samp-plugin-jit)** - Nakon što vaš kod postane stabilan, upotrijebite ovo za značajno ubrzanje.
+- **[CrashDetect](https://github.com/Zeex/samp-plugin-crashdetect)** - Razvojni alat za pronalaženje grešaka tijekom testiranja.
+- **[Profiler](https://github.com/Zeex/samp-plugin-profiler)** - Dodatak za profiliranje performansi za SA-MP poslužitelj.
+- **[sscanf](https://github.com/Y-Less/sscanf)** - Pretvorite nizove u višestruke vrijednosti, int, float, igrače itd.
+- **[MySQL Plugin](https://github.com/pBlueG/SA-MP-MySQL)** - Povežite svoj poslužitelj s MySQL poslužiteljem.
+- **[Streamer Plugin](https://github.com/samp-incognito/samp-streamer-plugin)** - Zaobiđite mnoga SA:MP ograničenja, poput objekata i 'pickupova'.
+- **[nativechecker](https://github.com/openmultiplayer/archive/raw/master/plugins/nativechecker.zip)** - Provjera 'natives' prilikom pokretanja poslužitelja.
+- **[FCNPC](https://github.com/ziggi/FCNPC)** - Dodatak za SA-MP poslužitelje koji dodaje puno mogućnosti postojećim standardnim NPC-ovima.
+- **[FileManager](https://github.com/JaTochNietDan/SA-MP-FileManager)** - Omogućuje vam upravljanje datotekama i mapama iz korijenske mape (nije ograničeno na direktorij poslužitelja scriptfiles s ovim dodatkom).
+- **[Pawn.Raknet](https://github.com/katursis/Pawn.RakNet)** - Omogućuje vam analizu RakNet prometa.
+- **[samp-precise-timers](https://github.com/bmisiak/samp-precise-timers)** - Dodatak za SA-MP koji pruža precizne mjerače vremena, napisan u Rustu.
+- **[PawnPlus](https://github.com/IllidanS4/PawnPlus)** - Proširuje mogućnosti skriptnog jezika Pawn s novim konstrukcijama, tipovima podataka i tehnikama programiranja.
+- **[PAWN memory access](https://github.com/BigETI/pawn-memory)** - Omogućuje dodjelu i oslobađanje memorije iz hrpe u PAWN-u.
+- **[Native Fallback](https://github.com/IllidanS4/NativeFallback)** - SA-MP dodatak koji omogućuje zamjensku implementaciju neregistriranim 'natives'.
+- **[YSF](https://github.com/IllidanS4/YSF)** - Dodatak čija je svrha izvući maksimalne mogućnosti iz poslužitelja, uglavnom s uređivanjem memorije i spajanjem.
+- **[SKY](https://github.com/oscar-broman/SKY)** - Ovaj dodatak pruža funkcije niske razine koje omogućuju Pawn skriptama moćne stvari.
+- **[Pawn.Regex](https://github.com/katursis/Pawn.Regex)** - Dodaje podršku za regularne izraze u Pawn.
+- **[pawn-scraper](https://github.com/Sreyas-Sreelal/pawn-scraper)** - Snažan dodatak za struganje koji pruža sučelje za korištenje html_parsera i css birač u Pawnu.
+- **[TOTP](https://github.com/philip1337/samp-plugin-totp)** - Omogućuje vam korištenje TOTP provjere autentičnosti u sa-mp gamemodu.
+- **[DNS Plugin](https://github.com/samp-incognito/samp-dns-plugin)** - Ovaj dodatak pruža funkcionalnost za DNS pretrage i obrnute DNS pretrage.
+- **[MapAndreas](https://github.com/Southclaws/samp-plugin-mapandreas)** - Omogućuje učitavanje različitih mapa visina i provjeru minimalne visine za x, y koordinate.
+- **[ColAndreas](https://github.com/Pottus/ColAndreas)** - Stvara simulaciju svijeta San Andreasa. Korištenje biblioteke Bullet Physics.
+- **[PathFinder](https://bitbucket.org/Pamdex/pathfinder/src/master)** - Omogućuje vam izračunavanje rute od točke A do točke B na karti San Andreasa.
+- **[Custom Query Flood Check](https://github.com/spmn/samp-custom-query-flood-check)** - Napišite prilagođene zaštite od preplavljivanja upita.
+- **[sampml](https://github.com/YashasSamaga/sampml)** - Pojednostavljeni komplet alata za strojno učenje i povezani SAMP projekti (Aimbot Detection).
+- **[TgConnector](https://github.com/Sreyas-Sreelal/tgconnector)** - Dodatak za konektor za telegram koji pomaže u interakciji s botovima za telegram putem SA-MP-a.
+- **[Discord connector](https://github.com/maddinat0r/samp-discord-connector)** - Omogućuje vam da kontrolirate Discord bot iz svoje PAWN skripte
+- **[TSConnector](https://github.com/maddinat0r/samp-tsconnector)** - Omogućuje vam da kontrolirate Teamspeak3 poslužitelj iz svoje PAWN skripte.
+- **[IRC Plugin](https://github.com/samp-incognito/samp-irc-plugin)** - Omogućuje stvaranje i upravljanje IRC botovima putem SA-MP poslužitelja.
+- **[pawn-requests](https://github.com/Southclaws/pawn-requests)** - Pruža API za interakciju s HTTP(S) API-jima s podrškom za tekstualne i JSON vrste podataka.
+- **[pawn-redis](https://github.com/Southclaws/pawn-redis)** - Odobravanje pristupa brzoj bazi podataka u memoriji i asinkronim kanalima poruka između drugih programa.
+- **[Chrono](https://github.com/Southclaws/pawn-chrono)** - Moderna knjižnica Pawn za rad s datumima i vremenima.
+- **[rustext](https://github.com/ziggi/rustext)** - Popravite dodatak za Ruski tekst za SA-MP: GameText, TextDraw i Menu.
+- **[Advanced SA NickName](https://github.com/KrYpToDeN/Advanced-SA-NickName)** - Podrška za sve simbole u nadimcima.
+- **[SAMPSON](https://github.com/Hual/SAMPSON)** - JSON dodatak za SA-MP.
 
 ## Client-Server Plugins
 
